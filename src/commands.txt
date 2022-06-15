@@ -1,0 +1,5 @@
+
+
+#Command to reset to a previuos commit id
+git reset --hard <commit id>
+git push --force
