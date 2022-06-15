@@ -1,4 +1,7 @@
-
+#command to commit a change
+git add .
+git commit - m "message text"
+git push
 
 #Command to reset to a previuos commit id
 git reset --hard <commit id>
