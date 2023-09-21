@@ -3,6 +3,6 @@ git add .
 git commit - m "message text"
 git push
 
-#Command to reset to a previuos commit id
+#Command to reset to a previous commit id
 git reset --hard <commit id>
 git push --force
