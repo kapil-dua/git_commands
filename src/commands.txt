@@ -1,8 +1,10 @@
-#command to commit a change
+git clone https://github.com/kdua13/git_commands.git
+
+#commands to commit a change
 git add .
 git commit - m "message text"
 git push
 
-#Command to reset to a previous commit id
+#commands to reset to a previous commit id
 git reset --hard <commit id>
 git push --force
